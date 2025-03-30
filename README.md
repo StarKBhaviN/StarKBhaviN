@@ -31,7 +31,8 @@ Check out some of my contributions and projects on my [GitHub profile](https://g
 If you're interested in collaborating or just want to say hi, feel free to connect with me!
 
 - **Email:** [stark.bhavin@gmail.com](mailto:stark.bhavin@gmail.com)
-
+- **Website:** [https://talia-bhavin.vercel.app/]
+ 
 ---
 
 Made with ❤️ by Bhavin Talia
